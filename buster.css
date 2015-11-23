@@ -1,0 +1,17 @@
+#playfield {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 960px;
+    height: 480px;
+}
+
+.myCanvas {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 960px;
+    height: 480px;
+    width: 100%;
+    height: 100%;
+}
