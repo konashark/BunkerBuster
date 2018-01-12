@@ -54,8 +54,8 @@ function canvasApp ()
     jetAccelX = 0;
     jetAccelY = 0;
 
-    KEYSTATE = [];
-    KEY = {LEFT: 37, RIGHT: 39, UP: 38, DOWN: 40, ENTER: 13, SPACE: 32, X: 88, Z: 90 };
+    var KEYSTATE = [];
+    var KEY = {LEFT: 37, RIGHT: 39, UP: 38, DOWN: 40, ENTER: 13, SPACE: 32, X: 88, Z: 90 };
 
     var missile = new Array();
 
